@@ -58,6 +58,8 @@ public class ArithTest01 {
 		//a = a + 1;
 		System.out.println(a);
 		
+		//근데 이런 방식은 안쓰는게 좋아 그냥 함수하나 쓰면되지뭐..이게 c++도 아니고... java는 비지니스 언어니까 꼭 간단하게
+		
 	}
 
 }
