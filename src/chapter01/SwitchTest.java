@@ -78,7 +78,7 @@ public class SwitchTest {
 			break;
 		}
 		
-		case 2: 
+		case 2: //블럭안써도됨 ㅎ
 			days = 28;
 			break;
 		
