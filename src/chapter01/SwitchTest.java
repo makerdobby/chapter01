@@ -78,10 +78,10 @@ public class SwitchTest {
 			break;
 		}
 		
-		case 2: {
+		case 2: 
 			days = 28;
 			break;
-		}
+		
 		
 		case 4: 
 		case 6:
