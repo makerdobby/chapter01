@@ -1,16 +1,16 @@
-package chapter01;
+package chapter01.loop;
 
 import java.util.Scanner;
 
-public class NHelloWorld01 {
+public class NHelloWorld02 {
 
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		int count = s.nextInt();
-		int n = 0;
-		while (n < count ) {
-			System.out.println("Hello"+"World");
-			n++;
+		
+		
+		for( int i = 0; i < count ; i++) {
+			System.out.println("Hello World");
 		}
 			
 		

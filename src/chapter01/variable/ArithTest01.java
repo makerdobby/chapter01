@@ -1,4 +1,4 @@
-package chapter01;
+package chapter01.variable;
 
 public class ArithTest01 {
 
